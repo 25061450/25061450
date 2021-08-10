@@ -1,7 +1,9 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Seazean&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=contribs" />
+### Hello, I'm Seazean 👋
+
 
 <!--
-**25061450/25061450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Seazean/Seazean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Java
+- 💬 I'm looking for an internship
+- 📫 How to reach me: imseazean@gmail.com
